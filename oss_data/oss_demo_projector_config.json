@@ -1,0 +1,20 @@
+{
+    "embeddings": [
+        {
+            "tensorShape": [
+                2921,
+                128
+            ],
+            "tensorPath": "oss_data/tensor.bytes",
+            "tensorName": "LFW",
+            "sprite": {
+                "imagePath": "oss_data/sprites.png",
+                "singleImageDim": [
+                    28,
+                    28
+                ]
+            }
+        }
+    ],
+    "modelCheckpointPath": "Demo datasets"
+}
