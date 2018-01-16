@@ -1,3 +1,3 @@
 128D Facenet Embedding Visualisation
 
-Visit: 
+Visit: https://huyhoang17.github.io/128D-Facenet-LFW-Embedding-Visualisation/
