@@ -1,11 +1,12 @@
 {
     "embeddings": [
         {
+            "tensorPath": "oss_data/tensor.bytes",
             "tensorShape": [
                 2921,
                 128
             ],
-            "tensorPath": "oss_data/tensor.bytes",
+            "metadataPath": "oss_data/LFW_labels.tsv",
             "tensorName": "LFW",
             "sprite": {
                 "imagePath": "oss_data/sprites.png",
