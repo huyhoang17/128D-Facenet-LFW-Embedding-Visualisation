@@ -10,6 +10,7 @@ PATH = "path_to_image_folder"
 def images_to_sprite(data):
     """
     Creates the sprite image
+
     Parameters
     ----------
         data: [batch_size, height, weight, n_channel]
