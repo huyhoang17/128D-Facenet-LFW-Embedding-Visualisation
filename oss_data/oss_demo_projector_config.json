@@ -1,7 +1,7 @@
 {
     "embeddings": [
         {
-            "tensorPath": "oss_data/tensor.bytes",
+            "tensorPath": "oss_data/LFW_tensor.bytes",
             "tensorShape": [
                 2921,
                 128
@@ -9,13 +9,29 @@
             "metadataPath": "oss_data/LFW_labels.tsv",
             "tensorName": "LFW",
             "sprite": {
-                "imagePath": "oss_data/sprites.png",
+                "imagePath": "oss_data/LFW_sprites.png",
                 "singleImageDim": [
                     28,
                     28
                 ]
             }
+        },
+        {
+            "tensorPath": "oss_data/GEI_tensor.bytes",
+            "tensorShape": [
+                1100,
+                256
+            ],
+            "metadataPath": "oss_data/GEI_labels.tsv",
+            "tensorName": "GEI",
+            "sprite": {
+                "imagePath": "oss_data/GEI_sprites.png",
+                "singleImageDim": [
+                    42,
+                    14
+                ]
+            }
         }
     ],
-    "modelCheckpointPath": "Demo datasets"
+    "modelCheckpointPath": "Visual Vector Embedding"
 }
