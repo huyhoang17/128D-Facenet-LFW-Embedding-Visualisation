@@ -31,6 +31,22 @@
                     14
                 ]
             }
+        },
+        {
+            "tensorPath": "oss_data/FashionMnist_tensor.bytes",
+            "tensorShape": [
+                10000,
+                128
+            ],
+            "metadataPath": "oss_data/FashionMnist_labels.tsv",
+            "tensorName": "FashionMnist",
+            "sprite": {
+                "imagePath": "oss_data/FashionMnist_sprites.png",
+                "singleImageDim": [
+                    28,
+                    28
+                ]
+            }
         }
     ],
     "modelCheckpointPath": "Visual Vector Embedding"
