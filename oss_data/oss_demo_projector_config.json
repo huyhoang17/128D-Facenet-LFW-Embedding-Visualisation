@@ -7,7 +7,7 @@
                 128
             ],
             "metadataPath": "oss_data/LFW_labels.tsv",
-            "tensorName": "LFW",
+            "tensorName": "LFW2Vec",
             "sprite": {
                 "imagePath": "oss_data/LFW_sprites.png",
                 "singleImageDim": [
@@ -23,7 +23,7 @@
                 256
             ],
             "metadataPath": "oss_data/GEI_labels.tsv",
-            "tensorName": "GEI",
+            "tensorName": "GEI2Vec",
             "sprite": {
                 "imagePath": "oss_data/GEI_sprites.png",
                 "singleImageDim": [
@@ -39,7 +39,7 @@
                 128
             ],
             "metadataPath": "oss_data/FashionMnist_labels.tsv",
-            "tensorName": "FashionMnist",
+            "tensorName": "FaMnist2Vec",
             "sprite": {
                 "imagePath": "oss_data/FashionMnist_sprites.png",
                 "singleImageDim": [
