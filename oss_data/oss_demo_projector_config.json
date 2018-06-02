@@ -49,10 +49,10 @@
             }
         },
         {
-          "tensorName": "Word2Vec",
-          "tensorShape": [58112, 100],
-          "tensorPath": "oss_data/word2vec_100d_tensors.bytes",
-          "metadataPath": "oss_data/word2vec_100d_labels.tsv"
+            "tensorName": "Word2Vec",
+            "tensorShape": [58112, 100],
+            "tensorPath": "oss_data/word2vec_100d_tensors.bytes",
+            "metadataPath": "oss_data/word2vec_100d_labels.tsv"
         },
     ],
     "modelCheckpointPath": "Visual Vector Embedding"
