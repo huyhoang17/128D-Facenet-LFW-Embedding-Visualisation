@@ -15,45 +15,7 @@
                     28
                 ]
             }
-        },
-        {
-            "tensorPath": "oss_data/GEI_tensor.bytes",
-            "tensorShape": [
-                1100,
-                256
-            ],
-            "metadataPath": "oss_data/GEI_labels.tsv",
-            "tensorName": "GEI2Vec",
-            "sprite": {
-                "imagePath": "oss_data/GEI_sprites.png",
-                "singleImageDim": [
-                    42,
-                    14
-                ]
-            }
-        },
-        {
-            "tensorPath": "oss_data/FashionMnist_tensor.bytes",
-            "tensorShape": [
-                10000,
-                128
-            ],
-            "metadataPath": "oss_data/FashionMnist_labels.tsv",
-            "tensorName": "FaMnist2Vec",
-            "sprite": {
-                "imagePath": "oss_data/FashionMnist_sprites.png",
-                "singleImageDim": [
-                    28,
-                    28
-                ]
-            }
-        },
-        {
-            "tensorName": "Word2Vec",
-            "tensorShape": [58112, 100],
-            "tensorPath": "oss_data/word2vec_100d_tensors.bytes",
-            "metadataPath": "oss_data/word2vec_100d_labels.tsv"
-        },
+        }
     ],
     "modelCheckpointPath": "Visual Vector Embedding"
 }
