@@ -17,5 +17,23 @@
             }
         }
     ],
+    "embeddings": [
+        {
+            "tensorPath": "oss_data/HD_tensor.bytes",
+            "tensorShape": [
+                1144,
+                128
+            ],
+            "metadataPath": "oss_data/HD_labels.tsv",
+            "tensorName": "Faces_Human_Development",
+            "sprite": {
+                "imagePath": "oss_data/HD_sprites.png",
+                "singleImageDim": [
+                    28,
+                    28
+                ]
+            }
+        }
+    ],
     "modelCheckpointPath": "Visual Vector Embedding"
 }
