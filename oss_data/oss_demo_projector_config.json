@@ -15,9 +15,7 @@
                     28
                 ]
             }
-        }
-    ],
-    "embeddings": [
+        },
         {
             "tensorPath": "oss_data/HD_tensor.bytes",
             "tensorShape": [
