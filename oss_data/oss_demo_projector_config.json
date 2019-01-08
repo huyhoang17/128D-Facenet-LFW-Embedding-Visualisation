@@ -21,7 +21,7 @@
         {
             "tensorPath": "oss_data/HD_tensor.bytes",
             "tensorShape": [
-                1144,
+                2057,
                 128
             ],
             "metadataPath": "oss_data/HD_labels.tsv",
