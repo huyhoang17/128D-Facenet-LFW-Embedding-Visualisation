@@ -31,6 +31,22 @@
                     28
                 ]
             }
+        },
+        {
+            "tensorPath": "oss_data/CMCface_tensor.bytes",
+            "tensorShape": [
+                3500,
+                512
+            ],
+            "metadataPath": "oss_data/CMCface_labels.tsv",
+            "tensorName": "CMC_face",
+            "sprite": {
+                "imagePath": "oss_data/CMCface_sprites.png",
+                "singleImageDim": [
+                    28,
+                    28
+                ]
+            }
         }
     ],
     "modelCheckpointPath": "Visual Vector Embedding"
